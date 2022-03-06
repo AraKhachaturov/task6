@@ -1,0 +1,12 @@
+{
+  "name": "task6",
+  "version": "1.0.0",
+  "description": "task6 date stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon index.js"
+  },
+  "author": "Ara",
+  "license": "ISC"
+}
