@@ -13,6 +13,8 @@
     "eslint": "^8.10.0"
   },
   "dependencies": {
+    "editorconfig": "^0.15.3",
+    "moment": "^2.29.1",
     "prettier": "^2.5.1"
   }
 }
